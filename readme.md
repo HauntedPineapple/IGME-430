@@ -1,6 +1,5 @@
 # IGME-430-02: Rich Media Web App Dev II
 
-
 <!-- * [Syllabus](link) -->
 * [Course Coding Standards](/coding-standards.md)
 * [IGME-235 Master Git](https://github.com/tonethar/IGME-230-Master)
