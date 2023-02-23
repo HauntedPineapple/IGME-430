@@ -49,6 +49,20 @@
 
 <hr>
 
+### Helpful Resources
+* [HTML Validator](https://appdevtools.com/html-validator)
+* [CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_upload)
+* [JSON Validator](https://jsonlint.com/)
+* [Node.js Documentation](https://nodejs.org/api/)
+* [ES6 Cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
+* [HTML Cheatsheet ](https://github.com/iLoveCodingOrg/html-cheatsheet)
+* [CSS Cheatsheet](https://github.com/iLoveCodingOrg/html-cheatsheet)
+* [JavaScript Cheatsheet](https://github.com/iLoveCodingOrg/javascript-cheatsheet)
+<!-- * [CSS Gradients](https://webgradients.com/) -->
+<!-- * [NAME](url) -->
+
+<hr>
+
 ### Textbooks and References
 **Title:** *Safari HTML5 Canvas Guide*
 **Publisher:** Apple Inc.
