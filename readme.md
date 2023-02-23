@@ -58,3 +58,30 @@
 **Publisher:** Mozilla Inc.
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
 - The definitive JavaScript Reference
+
+<hr>
+
+### Node Setup
+Check node and npm versions with `node ‐v` and `npm ‐v`
+
+In package.json:
+```
+"engines":{
+    "node": "16.14.0",
+    "npm": "8.3.1"
+  },
+"main": "./src/server.js",
+"scripts": {
+   "start": "node ./src/server.js",
+   "pretest": "eslint ./src --fix",
+   "test": "echo \"Error: no test specified\" && exit 1"
+  },
+ "devDependencies": {
+    "eslint": "^8.33.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-import": "^2.27.5"
+  }
+```
+
+Install ESLint node modules with:
+`npm install --save-dev eslint eslint-plugin-import eslint-config-airbnb`
